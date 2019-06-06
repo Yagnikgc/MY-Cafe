@@ -1,0 +1,14 @@
+F:\Project\MY C@fe\MY C@fe\obj\x86\Debug\MY_C_fe.Form1.resources
+F:\Project\MY C@fe\MY C@fe\obj\x86\Debug\MY_C_fe.Properties.Resources.resources
+F:\Project\MY C@fe\MY C@fe\obj\x86\Debug\MY C@fe.csproj.GenerateResource.Cache
+F:\Project\MY C@fe\MY C@fe\bin\Debug\MY C@fe.exe
+F:\Project\MY C@fe\MY C@fe\bin\Debug\MY C@fe.pdb
+F:\Project\MY C@fe\MY C@fe\obj\x86\Debug\MY C@fe.exe
+F:\Project\MY C@fe\MY C@fe\obj\x86\Debug\MY C@fe.pdb
+F:\Project\MY C@fe\MY C@fe\obj\x86\Debug\MY_C_fe.Registration.resources
+F:\Project\MY C@fe\MY C@fe\bin\Debug\Database1.sdf
+F:\Project\MY C@fe\MY C@fe\bin\Debug\Register.mdf
+F:\Project\MY C@fe\MY C@fe\bin\Debug\Register_log.ldf
+F:\Project\MY C@fe\MY C@fe\bin\Debug\MY C@fe.exe.config
+F:\Project\MY C@fe\MY C@fe\obj\x86\Debug\MY_C_fe.WelCome.resources
+F:\Project\MY C@fe\MY C@fe\obj\x86\Debug\MY C@fe.csprojResolveAssemblyReference.cache

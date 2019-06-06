@@ -1,0 +1,19 @@
+F:\Project\MY C@fe\MY C@fe\bin\Release\MY C@fe.exe.config
+F:\Project\MY C@fe\MY C@fe\bin\Release\Database1.sdf
+F:\Project\MY C@fe\MY C@fe\bin\Release\Register.mdf
+F:\Project\MY C@fe\MY C@fe\bin\Release\Register_log.ldf
+F:\Project\MY C@fe\MY C@fe\bin\Release\MY C@fe.exe
+F:\Project\MY C@fe\MY C@fe\bin\Release\MY C@fe.pdb
+F:\Project\MY C@fe\MY C@fe\obj\x86\Release\MY C@fe.csprojResolveAssemblyReference.cache
+F:\Project\MY C@fe\MY C@fe\obj\x86\Release\MY_C_fe.Form1.resources
+F:\Project\MY C@fe\MY C@fe\obj\x86\Release\MY_C_fe.Properties.Resources.resources
+F:\Project\MY C@fe\MY C@fe\obj\x86\Release\MY_C_fe.Registration.resources
+F:\Project\MY C@fe\MY C@fe\obj\x86\Release\MY_C_fe.WelCome.resources
+F:\Project\MY C@fe\MY C@fe\obj\x86\Release\MY C@fe.csproj.GenerateResource.Cache
+F:\Project\MY C@fe\MY C@fe\obj\x86\Release\MY C@fe.exe
+F:\Project\MY C@fe\MY C@fe\obj\x86\Release\MY C@fe.pdb
+F:\Project\MY C@fe\MY C@fe\obj\x86\Release\MY_C_fe.Home.resources
+F:\Project\MY C@fe\MY C@fe\obj\x86\Release\MY_C_fe.Admin.resources
+F:\Project\MY C@fe\MY C@fe\obj\x86\Release\MY_C_fe.changePassword.resources
+F:\Project\MY C@fe\MY C@fe\obj\x86\Release\MY_C_fe.UserData.resources
+F:\Project\MY C@fe\MY C@fe\obj\x86\Release\MY_C_fe.Hostory.resources
